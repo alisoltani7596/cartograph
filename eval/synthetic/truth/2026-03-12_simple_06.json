@@ -1,0 +1,56 @@
+{
+ "id": "2026-03-12_simple_06",
+ "store": "Cedar & Pine Pharmacy",
+ "location": "Lakeview, BC",
+ "date": "2026-03-12",
+ "time": "11:20",
+ "kind": "purchase",
+ "currency": "CAD",
+ "items": [
+  {
+   "raw": "VITAMIN D3 1000IU",
+   "name": "Vitamin D3",
+   "category": "Health",
+   "qty": 1,
+   "unitPrice": 12.81,
+   "lineTotal": 12.81,
+   "discount": 0
+  },
+  {
+   "raw": "ALLERGY TABS 30",
+   "name": "Allergy tablets",
+   "category": "Health",
+   "qty": 1,
+   "unitPrice": 15.27,
+   "lineTotal": 15.27,
+   "discount": 0
+  },
+  {
+   "raw": "SUNSCREEN SPF50",
+   "name": "Sunscreen SPF 50",
+   "category": "Personal Care",
+   "qty": 1,
+   "unitPrice": 13.8,
+   "lineTotal": 13.8,
+   "discount": 0
+  }
+ ],
+ "subtotal": 41.88,
+ "tax": 1.66,
+ "total": 43.54,
+ "instantSavings": 0,
+ "tenders": [
+  {
+   "label": "VISA",
+   "amount": 43.54,
+   "kind": "card"
+  }
+ ],
+ "source": {
+  "method": "demo"
+ },
+ "flags": [],
+ "reconciled": true,
+ "createdAt": "2026-03-12T11:20:00Z",
+ "split": "synthetic"
+}

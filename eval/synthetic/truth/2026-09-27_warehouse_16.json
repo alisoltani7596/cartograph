@@ -1,0 +1,49 @@
+{
+ "id": "2026-09-27_warehouse_16",
+ "store": "Northgate Warehouse Club",
+ "location": "Lakeview, BC",
+ "date": "2026-09-27",
+ "time": "16:10",
+ "kind": "return",
+ "currency": "CAD",
+ "items": [
+  {
+   "raw": "COTTON THROW",
+   "code": "930055",
+   "name": "Cotton throw blanket",
+   "category": "Home & Garden",
+   "qty": 1,
+   "unitPrice": -29.93,
+   "lineTotal": -29.93,
+   "discount": -5
+  },
+  {
+   "raw": "USB-C CABLE 3PK",
+   "code": "940012",
+   "name": "USB-C cables, 3 pack",
+   "category": "Electronics & Toys",
+   "qty": 1,
+   "unitPrice": -19.95,
+   "lineTotal": -19.95,
+   "discount": 0
+  }
+ ],
+ "subtotal": -44.88,
+ "tax": -5.38,
+ "total": -50.26,
+ "instantSavings": 5,
+ "tenders": [
+  {
+   "label": "VISA",
+   "amount": -50.26,
+   "kind": "card"
+  }
+ ],
+ "source": {
+  "method": "demo"
+ },
+ "flags": [],
+ "reconciled": true,
+ "createdAt": "2026-09-27T16:10:00Z",
+ "split": "synthetic"
+}

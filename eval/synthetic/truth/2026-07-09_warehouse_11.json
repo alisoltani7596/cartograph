@@ -1,0 +1,229 @@
+{
+ "id": "2026-07-09_warehouse_11",
+ "store": "Northgate Warehouse Club",
+ "location": "Lakeview, BC",
+ "date": "2026-07-09",
+ "time": "15:54",
+ "kind": "purchase",
+ "currency": "CAD",
+ "items": [
+  {
+   "raw": "NG CHKN BRST",
+   "code": "400118",
+   "name": "Chicken breasts",
+   "category": "Meat & Seafood",
+   "qty": 1,
+   "unitPrice": 30.63,
+   "lineTotal": 30.63,
+   "discount": 4
+  },
+  {
+   "raw": "NG LG EGGS 30",
+   "code": "300045",
+   "name": "Large eggs, 30 pack",
+   "category": "Dairy & Eggs",
+   "qty": 1,
+   "unitPrice": 11.39,
+   "lineTotal": 11.39,
+   "discount": 3
+  },
+  {
+   "raw": "HONEYCRISP 3LB",
+   "code": "200017",
+   "name": "Honeycrisp apples, 3 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 7.58,
+   "lineTotal": 7.58,
+   "discount": 0
+  },
+  {
+   "raw": "ORG CARROT 5LB",
+   "code": "200355",
+   "name": "Organic carrots, 5 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 6.94,
+   "lineTotal": 6.94,
+   "discount": 0
+  },
+  {
+   "raw": "EVOO 2L",
+   "code": "600150",
+   "name": "Extra virgin olive oil, 2 L",
+   "category": "Pantry",
+   "qty": 1,
+   "unitPrice": 21.09,
+   "lineTotal": 21.09,
+   "discount": 3
+  },
+  {
+   "raw": "PAPER TOWEL 12R",
+   "code": "910002",
+   "name": "Paper towels, 12 rolls",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 24.82,
+   "lineTotal": 24.82,
+   "discount": 0
+  },
+  {
+   "raw": "HASS AVO 6CT",
+   "code": "200410",
+   "name": "Avocados, 6 count",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 8.93,
+   "lineTotal": 8.93,
+   "discount": 0
+  },
+  {
+   "raw": "SKYR PLAIN 1KG",
+   "code": "300210",
+   "name": "Plain skyr, 1 kg",
+   "category": "Dairy & Eggs",
+   "qty": 1,
+   "unitPrice": 8.93,
+   "lineTotal": 8.93,
+   "discount": 2
+  },
+  {
+   "raw": "COLD BREW 12PK",
+   "code": "800071",
+   "name": "Cold brew coffee, 12 pack",
+   "category": "Beverages",
+   "qty": 1,
+   "unitPrice": 19.85,
+   "lineTotal": 19.85,
+   "discount": 0
+  },
+  {
+   "raw": "ATL SALMON PRT",
+   "code": "401230",
+   "name": "Atlantic salmon portions",
+   "category": "Meat & Seafood",
+   "qty": 1,
+   "unitPrice": 27.8,
+   "lineTotal": 27.8,
+   "discount": 0
+  },
+  {
+   "raw": "TOOTHPASTE 4PK",
+   "code": "920010",
+   "name": "Toothpaste, 4 pack",
+   "category": "Personal Care",
+   "qty": 1,
+   "unitPrice": 13.89,
+   "lineTotal": 13.89,
+   "discount": 0
+  },
+  {
+   "raw": "COTTON THROW",
+   "code": "930055",
+   "name": "Cotton throw blanket",
+   "category": "Home & Garden",
+   "qty": 1,
+   "unitPrice": 29.79,
+   "lineTotal": 29.79,
+   "discount": 0
+  },
+  {
+   "raw": "BABY BOK CHOY",
+   "code": "200133",
+   "name": "Baby bok choy",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 4.96,
+   "lineTotal": 4.96,
+   "discount": 0
+  },
+  {
+   "raw": "CLEMENTINE 2.5LB",
+   "code": "200466",
+   "name": "Clementines",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 7.44,
+   "lineTotal": 7.44,
+   "discount": 0
+  },
+  {
+   "raw": "DISH TABS 110",
+   "code": "910078",
+   "name": "Dishwasher tablets, 110",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 21.34,
+   "lineTotal": 21.34,
+   "discount": 0
+  },
+  {
+   "raw": "ROMA TOM 2LB",
+   "code": "200302",
+   "name": "Roma tomatoes",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 4.76,
+   "lineTotal": 4.76,
+   "discount": 2
+  },
+  {
+   "raw": "BUTTER CROISS 12",
+   "code": "500048",
+   "name": "Butter croissants, 12",
+   "category": "Bakery",
+   "qty": 2,
+   "unitPrice": 9.92,
+   "lineTotal": 19.84,
+   "discount": 4
+  },
+  {
+   "raw": "LEAN GRND TURKEY",
+   "code": "401577",
+   "name": "Lean ground turkey",
+   "category": "Meat & Seafood",
+   "qty": 1,
+   "unitPrice": 18.36,
+   "lineTotal": 18.36,
+   "discount": 4
+  },
+  {
+   "raw": "SPARK WATER 24",
+   "code": "800030",
+   "name": "Sparkling water, 24 cans",
+   "category": "Beverages",
+   "qty": 1,
+   "unitPrice": 9.92,
+   "lineTotal": 9.92,
+   "discount": 0
+  },
+  {
+   "raw": "DEPOSIT 800030",
+   "code": "9002",
+   "name": "Container deposit",
+   "category": "Fees & Deposits",
+   "qty": 1,
+   "unitPrice": 2.4,
+   "lineTotal": 2.4,
+   "discount": 0
+  }
+ ],
+ "subtotal": 278.66,
+ "tax": 14.35,
+ "total": 293.01,
+ "instantSavings": 22,
+ "tenders": [
+  {
+   "label": "VISA",
+   "amount": 293.01,
+   "kind": "card"
+  }
+ ],
+ "source": {
+  "method": "demo"
+ },
+ "flags": [],
+ "reconciled": true,
+ "createdAt": "2026-07-09T15:54:00Z",
+ "split": "synthetic"
+}

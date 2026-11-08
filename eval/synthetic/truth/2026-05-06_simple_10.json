@@ -1,0 +1,65 @@
+{
+ "id": "2026-05-06_simple_10",
+ "store": "Harbour Hardware",
+ "location": "Lakeview, BC",
+ "date": "2026-05-06",
+ "time": "13:05",
+ "kind": "purchase",
+ "currency": "CAD",
+ "items": [
+  {
+   "raw": "LED BULB 4PK",
+   "name": "LED bulbs, 4 pack",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 11.86,
+   "lineTotal": 11.86,
+   "discount": 0
+  },
+  {
+   "raw": "POTTING SOIL 28L",
+   "name": "Potting soil",
+   "category": "Home & Garden",
+   "qty": 1,
+   "unitPrice": 9.88,
+   "lineTotal": 9.88,
+   "discount": 0
+  },
+  {
+   "raw": "WORK GLOVES",
+   "name": "Work gloves",
+   "category": "Home & Garden",
+   "qty": 1,
+   "unitPrice": 14.83,
+   "lineTotal": 14.83,
+   "discount": 0
+  },
+  {
+   "raw": "AA BATTERY 8PK",
+   "name": "AA batteries, 8 pack",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 10.38,
+   "lineTotal": 10.38,
+   "discount": 0
+  }
+ ],
+ "subtotal": 46.95,
+ "tax": 5.64,
+ "total": 52.59,
+ "instantSavings": 0,
+ "tenders": [
+  {
+   "label": "VISA",
+   "amount": 52.59,
+   "kind": "card"
+  }
+ ],
+ "source": {
+  "method": "demo"
+ },
+ "flags": [],
+ "reconciled": true,
+ "createdAt": "2026-05-06T13:05:00Z",
+ "split": "synthetic"
+}

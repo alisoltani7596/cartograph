@@ -1,0 +1,259 @@
+{
+ "id": "2026-01-03_warehouse_02",
+ "store": "Northgate Warehouse Club",
+ "location": "Lakeview, BC",
+ "date": "2026-01-03",
+ "time": "17:38",
+ "kind": "purchase",
+ "currency": "CAD",
+ "items": [
+  {
+   "raw": "NG CHKN BRST",
+   "code": "400118",
+   "name": "Chicken breasts",
+   "category": "Meat & Seafood",
+   "qty": 1,
+   "unitPrice": 29.22,
+   "lineTotal": 29.22,
+   "discount": 0
+  },
+  {
+   "raw": "NG LG EGGS 30",
+   "code": "300045",
+   "name": "Large eggs, 30 pack",
+   "category": "Dairy & Eggs",
+   "qty": 1,
+   "unitPrice": 10.73,
+   "lineTotal": 10.73,
+   "discount": 0
+  },
+  {
+   "raw": "HONEYCRISP 3LB",
+   "code": "200017",
+   "name": "Honeycrisp apples, 3 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 6.91,
+   "lineTotal": 6.91,
+   "discount": 0
+  },
+  {
+   "raw": "EVOO 2L",
+   "code": "600150",
+   "name": "Extra virgin olive oil, 2 L",
+   "category": "Pantry",
+   "qty": 1,
+   "unitPrice": 19.61,
+   "lineTotal": 19.61,
+   "discount": 0
+  },
+  {
+   "raw": "PAPER TOWEL 12R",
+   "code": "910002",
+   "name": "Paper towels, 12 rolls",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 24.54,
+   "lineTotal": 24.54,
+   "discount": 0
+  },
+  {
+   "raw": "HASS AVO 6CT",
+   "code": "200410",
+   "name": "Avocados, 6 count",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 8.83,
+   "lineTotal": 8.83,
+   "discount": 0
+  },
+  {
+   "raw": "SKYR PLAIN 1KG",
+   "code": "300210",
+   "name": "Plain skyr, 1 kg",
+   "category": "Dairy & Eggs",
+   "qty": 1,
+   "unitPrice": 8.83,
+   "lineTotal": 8.83,
+   "discount": 0
+  },
+  {
+   "raw": "TOOTHPASTE 4PK",
+   "code": "920010",
+   "name": "Toothpaste, 4 pack",
+   "category": "Personal Care",
+   "qty": 1,
+   "unitPrice": 13.74,
+   "lineTotal": 13.74,
+   "discount": 0
+  },
+  {
+   "raw": "TRAIL MIX 1.1KG",
+   "code": "700011",
+   "name": "Trail mix",
+   "category": "Snacks",
+   "qty": 1,
+   "unitPrice": 13.74,
+   "lineTotal": 13.74,
+   "discount": 0
+  },
+  {
+   "raw": "SWEET POTATO 5LB",
+   "code": "200215",
+   "name": "Sweet potatoes, 5 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 6.37,
+   "lineTotal": 6.37,
+   "discount": 0
+  },
+  {
+   "raw": "LEAN GRND TURKEY",
+   "code": "401577",
+   "name": "Lean ground turkey",
+   "category": "Meat & Seafood",
+   "qty": 1,
+   "unitPrice": 18.16,
+   "lineTotal": 18.16,
+   "discount": 2
+  },
+  {
+   "raw": "BUTTER CROISS 12",
+   "code": "500048",
+   "name": "Butter croissants, 12",
+   "category": "Bakery",
+   "qty": 1,
+   "unitPrice": 9.81,
+   "lineTotal": 9.81,
+   "discount": 0
+  },
+  {
+   "raw": "DISH TABS 110",
+   "code": "910078",
+   "name": "Dishwasher tablets, 110",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 21.1,
+   "lineTotal": 21.1,
+   "discount": 0
+  },
+  {
+   "raw": "ORG CARROT 5LB",
+   "code": "200355",
+   "name": "Organic carrots, 5 lb",
+   "category": "Produce",
+   "qty": 2,
+   "unitPrice": 6.86,
+   "lineTotal": 13.72,
+   "discount": 0
+  },
+  {
+   "raw": "ROMA TOM 2LB",
+   "code": "200302",
+   "name": "Roma tomatoes",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 4.7,
+   "lineTotal": 4.7,
+   "discount": 5
+  },
+  {
+   "raw": "COLD BREW 12PK",
+   "code": "800071",
+   "name": "Cold brew coffee, 12 pack",
+   "category": "Beverages",
+   "qty": 1,
+   "unitPrice": 19.63,
+   "lineTotal": 19.63,
+   "discount": 3
+  },
+  {
+   "raw": "COTTON THROW",
+   "code": "930055",
+   "name": "Cotton throw blanket",
+   "category": "Home & Garden",
+   "qty": 1,
+   "unitPrice": 29.45,
+   "lineTotal": 29.45,
+   "discount": 0
+  },
+  {
+   "raw": "ORG RASPBRY 340G",
+   "code": "200098",
+   "name": "Organic raspberries",
+   "category": "Produce",
+   "qty": 2,
+   "unitPrice": 6.96,
+   "lineTotal": 13.92,
+   "discount": 0
+  },
+  {
+   "raw": "BABY BOK CHOY",
+   "code": "200133",
+   "name": "Baby bok choy",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 4.9,
+   "lineTotal": 4.9,
+   "discount": 0
+  },
+  {
+   "raw": "ATL SALMON PRT",
+   "code": "401230",
+   "name": "Atlantic salmon portions",
+   "category": "Meat & Seafood",
+   "qty": 1,
+   "unitPrice": 27.49,
+   "lineTotal": 27.49,
+   "discount": 5
+  },
+  {
+   "raw": "OAT MILK 6X946",
+   "code": "300481",
+   "name": "Oat milk, 6 pack",
+   "category": "Dairy & Eggs",
+   "qty": 1,
+   "unitPrice": 12.27,
+   "lineTotal": 12.27,
+   "discount": 0
+  },
+  {
+   "raw": "NG CHKN THIGH",
+   "code": "400112",
+   "name": "Chicken thighs, boneless",
+   "category": "Meat & Seafood",
+   "qty": 1,
+   "unitPrice": 23.64,
+   "lineTotal": 23.64,
+   "discount": 0
+  },
+  {
+   "raw": "SPROUTED LOAF",
+   "code": "500022",
+   "name": "Sprouted grain bread",
+   "category": "Bakery",
+   "qty": 1,
+   "unitPrice": 6.86,
+   "lineTotal": 6.86,
+   "discount": 0
+  }
+ ],
+ "subtotal": 333.17,
+ "tax": 12.65,
+ "total": 345.82,
+ "instantSavings": 15,
+ "tenders": [
+  {
+   "label": "VISA",
+   "amount": 345.82,
+   "kind": "card"
+  }
+ ],
+ "source": {
+  "method": "demo"
+ },
+ "flags": [],
+ "reconciled": true,
+ "createdAt": "2026-01-03T17:38:00Z",
+ "split": "synthetic"
+}

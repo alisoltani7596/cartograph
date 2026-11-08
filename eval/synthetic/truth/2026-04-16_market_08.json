@@ -1,0 +1,101 @@
+{
+ "id": "2026-04-16_market_08",
+ "store": "Fresh Fields Market",
+ "location": "Lakeview, BC",
+ "date": "2026-04-16",
+ "time": "13:47",
+ "kind": "purchase",
+ "currency": "CAD",
+ "items": [
+  {
+   "raw": "SOURDOUGH LOAF",
+   "name": "Sourdough loaf",
+   "category": "Bakery",
+   "qty": 1,
+   "unitPrice": 5.42,
+   "lineTotal": 5.42,
+   "discount": 0
+  },
+  {
+   "raw": "LEMONS 2LB BAG",
+   "name": "Lemons, 2 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 4.93,
+   "lineTotal": 4.93,
+   "discount": 0
+  },
+  {
+   "raw": "WHOLE MILK 4L",
+   "name": "Whole milk, 4 L",
+   "category": "Dairy & Eggs",
+   "qty": 1,
+   "unitPrice": 6.1,
+   "lineTotal": 6.1,
+   "discount": 0
+  },
+  {
+   "raw": "GARBAGE BAGS 40",
+   "name": "Garbage bags",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 8.88,
+   "lineTotal": 8.88,
+   "discount": 0
+  },
+  {
+   "raw": "TORTILLA CHIPS",
+   "name": "Tortilla chips",
+   "category": "Snacks",
+   "qty": 1,
+   "unitPrice": 4.44,
+   "lineTotal": 4.44,
+   "discount": 0
+  },
+  {
+   "raw": "PASTA SAUCE 650ML",
+   "name": "Pasta sauce",
+   "category": "Pantry",
+   "qty": 1,
+   "unitPrice": 3.94,
+   "lineTotal": 3.94,
+   "discount": 1
+  },
+  {
+   "raw": "FROZEN PIZZA",
+   "name": "Frozen pizza",
+   "category": "Frozen",
+   "qty": 1,
+   "unitPrice": 7.9,
+   "lineTotal": 7.9,
+   "discount": 0
+  },
+  {
+   "raw": "DARK CHOC BAR",
+   "name": "Dark chocolate bar",
+   "category": "Snacks",
+   "qty": 1,
+   "unitPrice": 3.25,
+   "lineTotal": 3.25,
+   "discount": 0
+  }
+ ],
+ "subtotal": 43.86,
+ "tax": 1.99,
+ "total": 45.85,
+ "instantSavings": 1,
+ "tenders": [
+  {
+   "label": "DEBIT",
+   "amount": 45.85,
+   "kind": "card"
+  }
+ ],
+ "source": {
+  "method": "demo"
+ },
+ "flags": [],
+ "reconciled": true,
+ "createdAt": "2026-04-16T13:47:00Z",
+ "split": "synthetic"
+}

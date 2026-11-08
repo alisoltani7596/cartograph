@@ -1,0 +1,169 @@
+{
+ "id": "2026-09-13_warehouse_15",
+ "store": "Northgate Warehouse Club",
+ "location": "Lakeview, BC",
+ "date": "2026-09-13",
+ "time": "14:29",
+ "kind": "purchase",
+ "currency": "CAD",
+ "items": [
+  {
+   "raw": "NG CHKN BRST",
+   "code": "400118",
+   "name": "Chicken breasts",
+   "category": "Meat & Seafood",
+   "qty": 1,
+   "unitPrice": 31.13,
+   "lineTotal": 31.13,
+   "discount": 0
+  },
+  {
+   "raw": "NG LG EGGS 30",
+   "code": "300045",
+   "name": "Large eggs, 30 pack",
+   "category": "Dairy & Eggs",
+   "qty": 1,
+   "unitPrice": 11.62,
+   "lineTotal": 11.62,
+   "discount": 4
+  },
+  {
+   "raw": "HONEYCRISP 3LB",
+   "code": "200017",
+   "name": "Honeycrisp apples, 3 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 7.82,
+   "lineTotal": 7.82,
+   "discount": 0
+  },
+  {
+   "raw": "ORG CARROT 5LB",
+   "code": "200355",
+   "name": "Organic carrots, 5 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 6.97,
+   "lineTotal": 6.97,
+   "discount": 0
+  },
+  {
+   "raw": "EVOO 2L",
+   "code": "600150",
+   "name": "Extra virgin olive oil, 2 L",
+   "category": "Pantry",
+   "qty": 1,
+   "unitPrice": 21.61,
+   "lineTotal": 21.61,
+   "discount": 4
+  },
+  {
+   "raw": "PAPER TOWEL 12R",
+   "code": "910002",
+   "name": "Paper towels, 12 rolls",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 24.92,
+   "lineTotal": 24.92,
+   "discount": 0
+  },
+  {
+   "raw": "HASS AVO 6CT",
+   "code": "200410",
+   "name": "Avocados, 6 count",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 8.96,
+   "lineTotal": 8.96,
+   "discount": 0
+  },
+  {
+   "raw": "AGED GOUDA 1KG",
+   "code": "300377",
+   "name": "Aged gouda",
+   "category": "Dairy & Eggs",
+   "qty": 1,
+   "unitPrice": 16.94,
+   "lineTotal": 16.94,
+   "discount": 0
+  },
+  {
+   "raw": "NG CHKN THIGH",
+   "code": "400112",
+   "name": "Chicken thighs, boneless",
+   "category": "Meat & Seafood",
+   "qty": 1,
+   "unitPrice": 24.77,
+   "lineTotal": 24.77,
+   "discount": 0
+  },
+  {
+   "raw": "USB-C CABLE 3PK",
+   "code": "940012",
+   "name": "USB-C cables, 3 pack",
+   "category": "Electronics & Toys",
+   "qty": 1,
+   "unitPrice": 19.93,
+   "lineTotal": 19.93,
+   "discount": 0
+  },
+  {
+   "raw": "TRAIL MIX 1.1KG",
+   "code": "700011",
+   "name": "Trail mix",
+   "category": "Snacks",
+   "qty": 1,
+   "unitPrice": 13.95,
+   "lineTotal": 13.95,
+   "discount": 0
+  },
+  {
+   "raw": "BABY BOK CHOY",
+   "code": "200133",
+   "name": "Baby bok choy",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 4.98,
+   "lineTotal": 4.98,
+   "discount": 3
+  },
+  {
+   "raw": "TOOTHPASTE 4PK",
+   "code": "920010",
+   "name": "Toothpaste, 4 pack",
+   "category": "Personal Care",
+   "qty": 2,
+   "unitPrice": 13.95,
+   "lineTotal": 27.9,
+   "discount": 0
+  },
+  {
+   "raw": "ROMA TOM 2LB",
+   "code": "200302",
+   "name": "Roma tomatoes",
+   "category": "Produce",
+   "qty": 2,
+   "unitPrice": 4.78,
+   "lineTotal": 9.56,
+   "discount": 0
+  }
+ ],
+ "subtotal": 220.06,
+ "tax": 8.73,
+ "total": 228.79,
+ "instantSavings": 11,
+ "tenders": [
+  {
+   "label": "VISA",
+   "amount": 228.79,
+   "kind": "card"
+  }
+ ],
+ "source": {
+  "method": "demo"
+ },
+ "flags": [],
+ "reconciled": true,
+ "createdAt": "2026-09-13T14:29:00Z",
+ "split": "synthetic"
+}

@@ -1,0 +1,56 @@
+{
+ "id": "2026-08-19_simple_14",
+ "store": "Cedar & Pine Pharmacy",
+ "location": "Lakeview, BC",
+ "date": "2026-08-19",
+ "time": "17:45",
+ "kind": "purchase",
+ "currency": "CAD",
+ "items": [
+  {
+   "raw": "SHAMPOO 750ML",
+   "name": "Shampoo",
+   "category": "Personal Care",
+   "qty": 1,
+   "unitPrice": 8.95,
+   "lineTotal": 8.95,
+   "discount": 0
+  },
+  {
+   "raw": "BANDAGES 60CT",
+   "name": "Bandages",
+   "category": "Health",
+   "qty": 1,
+   "unitPrice": 6.46,
+   "lineTotal": 6.46,
+   "discount": 0
+  },
+  {
+   "raw": "VITAMIN D3 1000IU",
+   "name": "Vitamin D3",
+   "category": "Health",
+   "qty": 1,
+   "unitPrice": 12.93,
+   "lineTotal": 12.93,
+   "discount": 0
+  }
+ ],
+ "subtotal": 28.34,
+ "tax": 1.85,
+ "total": 30.19,
+ "instantSavings": 0,
+ "tenders": [
+  {
+   "label": "VISA",
+   "amount": 30.19,
+   "kind": "card"
+  }
+ ],
+ "source": {
+  "method": "demo"
+ },
+ "flags": [],
+ "reconciled": true,
+ "createdAt": "2026-08-19T17:45:00Z",
+ "split": "synthetic"
+}

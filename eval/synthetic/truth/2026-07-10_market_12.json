@@ -1,0 +1,92 @@
+{
+ "id": "2026-07-10_market_12",
+ "store": "Fresh Fields Market",
+ "location": "Lakeview, BC",
+ "date": "2026-07-10",
+ "time": "15:38",
+ "kind": "purchase",
+ "currency": "CAD",
+ "items": [
+  {
+   "raw": "CILANTRO",
+   "name": "Cilantro",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 1.48,
+   "lineTotal": 1.48,
+   "discount": 0
+  },
+  {
+   "raw": "SOURDOUGH LOAF",
+   "name": "Sourdough loaf",
+   "category": "Bakery",
+   "qty": 1,
+   "unitPrice": 5.45,
+   "lineTotal": 5.45,
+   "discount": 0
+  },
+  {
+   "raw": "GARBAGE BAGS 40",
+   "name": "Garbage bags",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 8.93,
+   "lineTotal": 8.93,
+   "discount": 0
+  },
+  {
+   "raw": "LEMONS 2LB BAG",
+   "name": "Lemons, 2 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 4.96,
+   "lineTotal": 4.96,
+   "discount": 0
+  },
+  {
+   "raw": "BAGELS 6PK",
+   "name": "Bagels, 6 pack",
+   "category": "Bakery",
+   "qty": 1,
+   "unitPrice": 4.26,
+   "lineTotal": 4.26,
+   "discount": 0
+  },
+  {
+   "raw": "WHOLE MILK 4L",
+   "name": "Whole milk, 4 L",
+   "category": "Dairy & Eggs",
+   "qty": 1,
+   "unitPrice": 6.18,
+   "lineTotal": 6.18,
+   "discount": 0
+  },
+  {
+   "raw": "GREEK YOGURT 750G",
+   "name": "Greek yogurt",
+   "category": "Dairy & Eggs",
+   "qty": 2,
+   "unitPrice": 5.95,
+   "lineTotal": 11.9,
+   "discount": 0
+  }
+ ],
+ "subtotal": 43.16,
+ "tax": 1.08,
+ "total": 44.24,
+ "instantSavings": 0,
+ "tenders": [
+  {
+   "label": "DEBIT",
+   "amount": 44.24,
+   "kind": "card"
+  }
+ ],
+ "source": {
+  "method": "demo"
+ },
+ "flags": [],
+ "reconciled": true,
+ "createdAt": "2026-07-10T15:38:00Z",
+ "split": "synthetic"
+}

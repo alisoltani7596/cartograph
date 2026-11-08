@@ -1,0 +1,199 @@
+{
+ "id": "2026-03-05_warehouse_05",
+ "store": "Northgate Warehouse Club",
+ "location": "Lakeview, BC",
+ "date": "2026-03-05",
+ "time": "16:10",
+ "kind": "purchase",
+ "currency": "CAD",
+ "items": [
+  {
+   "raw": "NG CHKN BRST",
+   "code": "400118",
+   "name": "Chicken breasts",
+   "category": "Meat & Seafood",
+   "qty": 1,
+   "unitPrice": 29.68,
+   "lineTotal": 29.68,
+   "discount": 0
+  },
+  {
+   "raw": "NG LG EGGS 30",
+   "code": "300045",
+   "name": "Large eggs, 30 pack",
+   "category": "Dairy & Eggs",
+   "qty": 1,
+   "unitPrice": 10.94,
+   "lineTotal": 10.94,
+   "discount": 4
+  },
+  {
+   "raw": "HONEYCRISP 3LB",
+   "code": "200017",
+   "name": "Honeycrisp apples, 3 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 7.13,
+   "lineTotal": 7.13,
+   "discount": 0
+  },
+  {
+   "raw": "ORG CARROT 5LB",
+   "code": "200355",
+   "name": "Organic carrots, 5 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 6.89,
+   "lineTotal": 6.89,
+   "discount": 0
+  },
+  {
+   "raw": "EVOO 2L",
+   "code": "600150",
+   "name": "Extra virgin olive oil, 2 L",
+   "category": "Pantry",
+   "qty": 1,
+   "unitPrice": 20.1,
+   "lineTotal": 20.1,
+   "discount": 0
+  },
+  {
+   "raw": "PAPER TOWEL 12R",
+   "code": "910002",
+   "name": "Paper towels, 12 rolls",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 24.63,
+   "lineTotal": 24.63,
+   "discount": 0
+  },
+  {
+   "raw": "HASS AVO 6CT",
+   "code": "200410",
+   "name": "Avocados, 6 count",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 8.86,
+   "lineTotal": 8.86,
+   "discount": 0
+  },
+  {
+   "raw": "SKYR PLAIN 1KG",
+   "code": "300210",
+   "name": "Plain skyr, 1 kg",
+   "category": "Dairy & Eggs",
+   "qty": 1,
+   "unitPrice": 8.86,
+   "lineTotal": 8.86,
+   "discount": 0
+  },
+  {
+   "raw": "CLEMENTINE 2.5LB",
+   "code": "200466",
+   "name": "Clementines",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 7.38,
+   "lineTotal": 7.38,
+   "discount": 0
+  },
+  {
+   "raw": "BABY BOK CHOY",
+   "code": "200133",
+   "name": "Baby bok choy",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 4.92,
+   "lineTotal": 4.92,
+   "discount": 0
+  },
+  {
+   "raw": "SEAWEED SNK 24",
+   "code": "700064",
+   "name": "Roasted seaweed snacks",
+   "category": "Snacks",
+   "qty": 2,
+   "unitPrice": 12.31,
+   "lineTotal": 24.62,
+   "discount": 0
+  },
+  {
+   "raw": "ORG RASPBRY 340G",
+   "code": "200098",
+   "name": "Organic raspberries",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 7.27,
+   "lineTotal": 7.27,
+   "discount": 0
+  },
+  {
+   "raw": "CHICKPEA 8X540",
+   "code": "600305",
+   "name": "Chickpeas, 8 cans",
+   "category": "Pantry",
+   "qty": 1,
+   "unitPrice": 9.35,
+   "lineTotal": 9.35,
+   "discount": 0
+  },
+  {
+   "raw": "SWEET POTATO 5LB",
+   "code": "200215",
+   "name": "Sweet potatoes, 5 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 6.4,
+   "lineTotal": 6.4,
+   "discount": 0
+  },
+  {
+   "raw": "LAUNDRY PODS 90",
+   "code": "910044",
+   "name": "Laundry pods, 90",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 26.6,
+   "lineTotal": 26.6,
+   "discount": 0
+  },
+  {
+   "raw": "COTTON THROW",
+   "code": "930055",
+   "name": "Cotton throw blanket",
+   "category": "Home & Garden",
+   "qty": 1,
+   "unitPrice": 29.56,
+   "lineTotal": 29.56,
+   "discount": 0
+  },
+  {
+   "raw": "BUTTER CROISS 12",
+   "code": "500048",
+   "name": "Butter croissants, 12",
+   "category": "Bakery",
+   "qty": 1,
+   "unitPrice": 9.85,
+   "lineTotal": 9.85,
+   "discount": 0
+  }
+ ],
+ "subtotal": 239.04,
+ "tax": 9.7,
+ "total": 248.74,
+ "instantSavings": 4,
+ "tenders": [
+  {
+   "label": "VISA",
+   "amount": 248.74,
+   "kind": "card"
+  }
+ ],
+ "source": {
+  "method": "demo"
+ },
+ "flags": [],
+ "reconciled": true,
+ "createdAt": "2026-03-05T16:10:00Z",
+ "split": "synthetic"
+}

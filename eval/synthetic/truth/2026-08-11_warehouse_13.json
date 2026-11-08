@@ -1,0 +1,249 @@
+{
+ "id": "2026-08-11_warehouse_13",
+ "store": "Northgate Warehouse Club",
+ "location": "Lakeview, BC",
+ "date": "2026-08-11",
+ "time": "14:07",
+ "kind": "purchase",
+ "currency": "CAD",
+ "items": [
+  {
+   "raw": "NG CHKN BRST",
+   "code": "400118",
+   "name": "Chicken breasts",
+   "category": "Meat & Seafood",
+   "qty": 1,
+   "unitPrice": 30.88,
+   "lineTotal": 30.88,
+   "discount": 0
+  },
+  {
+   "raw": "NG LG EGGS 30",
+   "code": "300045",
+   "name": "Large eggs, 30 pack",
+   "category": "Dairy & Eggs",
+   "qty": 1,
+   "unitPrice": 11.5,
+   "lineTotal": 11.5,
+   "discount": 0
+  },
+  {
+   "raw": "HONEYCRISP 3LB",
+   "code": "200017",
+   "name": "Honeycrisp apples, 3 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 7.7,
+   "lineTotal": 7.7,
+   "discount": 0
+  },
+  {
+   "raw": "ORG CARROT 5LB",
+   "code": "200355",
+   "name": "Organic carrots, 5 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 6.96,
+   "lineTotal": 6.96,
+   "discount": 5
+  },
+  {
+   "raw": "PAPER TOWEL 12R",
+   "code": "910002",
+   "name": "Paper towels, 12 rolls",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 24.87,
+   "lineTotal": 24.87,
+   "discount": 0
+  },
+  {
+   "raw": "SKYR PLAIN 1KG",
+   "code": "300210",
+   "name": "Plain skyr, 1 kg",
+   "category": "Dairy & Eggs",
+   "qty": 1,
+   "unitPrice": 8.95,
+   "lineTotal": 8.95,
+   "discount": 5
+  },
+  {
+   "raw": "TOOTHPASTE 4PK",
+   "code": "920010",
+   "name": "Toothpaste, 4 pack",
+   "category": "Personal Care",
+   "qty": 1,
+   "unitPrice": 13.92,
+   "lineTotal": 13.92,
+   "discount": 2
+  },
+  {
+   "raw": "ATL SALMON PRT",
+   "code": "401230",
+   "name": "Atlantic salmon portions",
+   "category": "Meat & Seafood",
+   "qty": 1,
+   "unitPrice": 27.85,
+   "lineTotal": 27.85,
+   "discount": 4
+  },
+  {
+   "raw": "JASMINE RICE 8KG",
+   "code": "600091",
+   "name": "Jasmine rice, 8 kg",
+   "category": "Pantry",
+   "qty": 1,
+   "unitPrice": 17.9,
+   "lineTotal": 17.9,
+   "discount": 0
+  },
+  {
+   "raw": "BATH TISSUE 30R",
+   "code": "910019",
+   "name": "Bath tissue, 30 rolls",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 22.88,
+   "lineTotal": 22.88,
+   "discount": 0
+  },
+  {
+   "raw": "EVOO 2L",
+   "code": "600150",
+   "name": "Extra virgin olive oil, 2 L",
+   "category": "Pantry",
+   "qty": 1,
+   "unitPrice": 21.35,
+   "lineTotal": 21.35,
+   "discount": 0
+  },
+  {
+   "raw": "TRAIL MIX 1.1KG",
+   "code": "700011",
+   "name": "Trail mix",
+   "category": "Snacks",
+   "qty": 1,
+   "unitPrice": 13.92,
+   "lineTotal": 13.92,
+   "discount": 0
+  },
+  {
+   "raw": "CHICKPEA 8X540",
+   "code": "600305",
+   "name": "Chickpeas, 8 cans",
+   "category": "Pantry",
+   "qty": 1,
+   "unitPrice": 9.44,
+   "lineTotal": 9.44,
+   "discount": 0
+  },
+  {
+   "raw": "PEANUT BTR 2KG",
+   "code": "600218",
+   "name": "Peanut butter, 2 kg",
+   "category": "Pantry",
+   "qty": 2,
+   "unitPrice": 10.94,
+   "lineTotal": 21.88,
+   "discount": 0
+  },
+  {
+   "raw": "COTTON THROW",
+   "code": "930055",
+   "name": "Cotton throw blanket",
+   "category": "Home & Garden",
+   "qty": 1,
+   "unitPrice": 29.84,
+   "lineTotal": 29.84,
+   "discount": 0
+  },
+  {
+   "raw": "USB-C CABLE 3PK",
+   "code": "940012",
+   "name": "USB-C cables, 3 pack",
+   "category": "Electronics & Toys",
+   "qty": 1,
+   "unitPrice": 19.89,
+   "lineTotal": 19.89,
+   "discount": 0
+  },
+  {
+   "raw": "HASS AVO 6CT",
+   "code": "200410",
+   "name": "Avocados, 6 count",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 8.95,
+   "lineTotal": 8.95,
+   "discount": 4
+  },
+  {
+   "raw": "CLEMENTINE 2.5LB",
+   "code": "200466",
+   "name": "Clementines",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 7.45,
+   "lineTotal": 7.45,
+   "discount": 0
+  },
+  {
+   "raw": "LEAN GRND TURKEY",
+   "code": "401577",
+   "name": "Lean ground turkey",
+   "category": "Meat & Seafood",
+   "qty": 1,
+   "unitPrice": 18.4,
+   "lineTotal": 18.4,
+   "discount": 0
+  },
+  {
+   "raw": "SWEET POTATO 5LB",
+   "code": "200215",
+   "name": "Sweet potatoes, 5 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 6.46,
+   "lineTotal": 6.46,
+   "discount": 5
+  },
+  {
+   "raw": "ROMA TOM 2LB",
+   "code": "200302",
+   "name": "Roma tomatoes",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 4.77,
+   "lineTotal": 4.77,
+   "discount": 0
+  },
+  {
+   "raw": "SEAWEED SNK 24",
+   "code": "700064",
+   "name": "Roasted seaweed snacks",
+   "category": "Snacks",
+   "qty": 1,
+   "unitPrice": 12.43,
+   "lineTotal": 12.43,
+   "discount": 0
+  }
+ ],
+ "subtotal": 323.19,
+ "tax": 13.13,
+ "total": 336.32,
+ "instantSavings": 25,
+ "tenders": [
+  {
+   "label": "VISA",
+   "amount": 336.32,
+   "kind": "card"
+  }
+ ],
+ "source": {
+  "method": "demo"
+ },
+ "flags": [],
+ "reconciled": true,
+ "createdAt": "2026-08-11T14:07:00Z",
+ "split": "synthetic"
+}

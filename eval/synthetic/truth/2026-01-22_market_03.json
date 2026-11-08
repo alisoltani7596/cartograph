@@ -1,0 +1,101 @@
+{
+ "id": "2026-01-22_market_03",
+ "store": "Fresh Fields Market",
+ "location": "Lakeview, BC",
+ "date": "2026-01-22",
+ "time": "13:03",
+ "kind": "purchase",
+ "currency": "CAD",
+ "items": [
+  {
+   "raw": "GARBAGE BAGS 40",
+   "name": "Garbage bags",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 8.84,
+   "lineTotal": 8.84,
+   "discount": 1
+  },
+  {
+   "raw": "ORANGE JUICE 1.54L",
+   "name": "Orange juice",
+   "category": "Beverages",
+   "qty": 2,
+   "unitPrice": 5.4,
+   "lineTotal": 10.8,
+   "discount": 0
+  },
+  {
+   "raw": "BANANAS",
+   "name": "Bananas",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 1.66,
+   "lineTotal": 1.66,
+   "discount": 0
+  },
+  {
+   "raw": "SOURDOUGH LOAF",
+   "name": "Sourdough loaf",
+   "category": "Bakery",
+   "qty": 1,
+   "unitPrice": 5.4,
+   "lineTotal": 5.4,
+   "discount": 1
+  },
+  {
+   "raw": "BROCCOLI CROWNS",
+   "name": "Broccoli crowns",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 3.23,
+   "lineTotal": 3.23,
+   "discount": 1
+  },
+  {
+   "raw": "FROZEN PIZZA",
+   "name": "Frozen pizza",
+   "category": "Frozen",
+   "qty": 1,
+   "unitPrice": 7.86,
+   "lineTotal": 7.86,
+   "discount": 0
+  },
+  {
+   "raw": "WHOLE MILK 4L",
+   "name": "Whole milk, 4 L",
+   "category": "Dairy & Eggs",
+   "qty": 1,
+   "unitPrice": 6.02,
+   "lineTotal": 6.02,
+   "discount": 0
+  },
+  {
+   "raw": "LEMONS 2LB BAG",
+   "name": "Lemons, 2 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 4.91,
+   "lineTotal": 4.91,
+   "discount": 1
+  }
+ ],
+ "subtotal": 44.72,
+ "tax": 0.94,
+ "total": 45.66,
+ "instantSavings": 4,
+ "tenders": [
+  {
+   "label": "VISA",
+   "amount": 45.66,
+   "kind": "card"
+  }
+ ],
+ "source": {
+  "method": "demo"
+ },
+ "flags": [],
+ "reconciled": true,
+ "createdAt": "2026-01-22T13:03:00Z",
+ "split": "synthetic"
+}

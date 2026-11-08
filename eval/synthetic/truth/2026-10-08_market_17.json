@@ -1,0 +1,119 @@
+{
+ "id": "2026-10-08_market_17",
+ "store": "Fresh Fields Market",
+ "location": "Lakeview, BC",
+ "date": "2026-10-08",
+ "time": "14:49",
+ "kind": "purchase",
+ "currency": "CAD",
+ "items": [
+  {
+   "raw": "DARK CHOC BAR",
+   "name": "Dark chocolate bar",
+   "category": "Snacks",
+   "qty": 1,
+   "unitPrice": 3.29,
+   "lineTotal": 3.29,
+   "discount": 0
+  },
+  {
+   "raw": "BANANAS",
+   "name": "Bananas",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 1.69,
+   "lineTotal": 1.69,
+   "discount": 1
+  },
+  {
+   "raw": "CILANTRO",
+   "name": "Cilantro",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 1.49,
+   "lineTotal": 1.49,
+   "discount": 1
+  },
+  {
+   "raw": "WHOLE MILK 4L",
+   "name": "Whole milk, 4 L",
+   "category": "Dairy & Eggs",
+   "qty": 2,
+   "unitPrice": 6.27,
+   "lineTotal": 12.54,
+   "discount": 0
+  },
+  {
+   "raw": "TORTILLA CHIPS",
+   "name": "Tortilla chips",
+   "category": "Snacks",
+   "qty": 1,
+   "unitPrice": 4.48,
+   "lineTotal": 4.48,
+   "discount": 0
+  },
+  {
+   "raw": "SPAGHETTI 900G",
+   "name": "Spaghetti",
+   "category": "Pantry",
+   "qty": 2,
+   "unitPrice": 2.49,
+   "lineTotal": 4.98,
+   "discount": 0
+  },
+  {
+   "raw": "GREEN GRAPES",
+   "name": "Green grapes",
+   "category": "Produce",
+   "qty": 2,
+   "unitPrice": 6.11,
+   "lineTotal": 12.22,
+   "discount": 0
+  },
+  {
+   "raw": "FROZEN PIZZA",
+   "name": "Frozen pizza",
+   "category": "Frozen",
+   "qty": 1,
+   "unitPrice": 7.98,
+   "lineTotal": 7.98,
+   "discount": 0
+  },
+  {
+   "raw": "ORANGE JUICE 1.54L",
+   "name": "Orange juice",
+   "category": "Beverages",
+   "qty": 1,
+   "unitPrice": 5.48,
+   "lineTotal": 5.48,
+   "discount": 0
+  },
+  {
+   "raw": "GREEK YOGURT 750G",
+   "name": "Greek yogurt",
+   "category": "Dairy & Eggs",
+   "qty": 1,
+   "unitPrice": 5.98,
+   "lineTotal": 5.98,
+   "discount": 1
+  }
+ ],
+ "subtotal": 57.13,
+ "tax": 0.93,
+ "total": 58.06,
+ "instantSavings": 3,
+ "tenders": [
+  {
+   "label": "VISA",
+   "amount": 58.06,
+   "kind": "card"
+  }
+ ],
+ "source": {
+  "method": "demo"
+ },
+ "flags": [],
+ "reconciled": true,
+ "createdAt": "2026-10-08T14:49:00Z",
+ "split": "synthetic"
+}

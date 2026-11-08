@@ -1,0 +1,199 @@
+{
+ "id": "2026-04-16_warehouse_07",
+ "store": "Northgate Warehouse Club",
+ "location": "Lakeview, BC",
+ "date": "2026-04-16",
+ "time": "18:10",
+ "kind": "purchase",
+ "currency": "CAD",
+ "items": [
+  {
+   "raw": "NG CHKN BRST",
+   "code": "400118",
+   "name": "Chicken breasts",
+   "category": "Meat & Seafood",
+   "qty": 1,
+   "unitPrice": 30,
+   "lineTotal": 30,
+   "discount": 0
+  },
+  {
+   "raw": "NG LG EGGS 30",
+   "code": "300045",
+   "name": "Large eggs, 30 pack",
+   "category": "Dairy & Eggs",
+   "qty": 1,
+   "unitPrice": 11.09,
+   "lineTotal": 11.09,
+   "discount": 0
+  },
+  {
+   "raw": "HONEYCRISP 3LB",
+   "code": "200017",
+   "name": "Honeycrisp apples, 3 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 7.28,
+   "lineTotal": 7.28,
+   "discount": 0
+  },
+  {
+   "raw": "ORG CARROT 5LB",
+   "code": "200355",
+   "name": "Organic carrots, 5 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 6.91,
+   "lineTotal": 6.91,
+   "discount": 0
+  },
+  {
+   "raw": "PAPER TOWEL 12R",
+   "code": "910002",
+   "name": "Paper towels, 12 rolls",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 24.69,
+   "lineTotal": 24.69,
+   "discount": 0
+  },
+  {
+   "raw": "HASS AVO 6CT",
+   "code": "200410",
+   "name": "Avocados, 6 count",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 8.88,
+   "lineTotal": 8.88,
+   "discount": 0
+  },
+  {
+   "raw": "SKYR PLAIN 1KG",
+   "code": "300210",
+   "name": "Plain skyr, 1 kg",
+   "category": "Dairy & Eggs",
+   "qty": 1,
+   "unitPrice": 8.88,
+   "lineTotal": 8.88,
+   "discount": 0
+  },
+  {
+   "raw": "NG CHKN THIGH",
+   "code": "400112",
+   "name": "Chicken thighs, boneless",
+   "category": "Meat & Seafood",
+   "qty": 1,
+   "unitPrice": 24.1,
+   "lineTotal": 24.1,
+   "discount": 0
+  },
+  {
+   "raw": "TOOTHPASTE 4PK",
+   "code": "920010",
+   "name": "Toothpaste, 4 pack",
+   "category": "Personal Care",
+   "qty": 1,
+   "unitPrice": 13.82,
+   "lineTotal": 13.82,
+   "discount": 4
+  },
+  {
+   "raw": "LEAN GRND TURKEY",
+   "code": "401577",
+   "name": "Lean ground turkey",
+   "category": "Meat & Seafood",
+   "qty": 1,
+   "unitPrice": 18.27,
+   "lineTotal": 18.27,
+   "discount": 0
+  },
+  {
+   "raw": "ATL SALMON PRT",
+   "code": "401230",
+   "name": "Atlantic salmon portions",
+   "category": "Meat & Seafood",
+   "qty": 1,
+   "unitPrice": 27.66,
+   "lineTotal": 27.66,
+   "discount": 0
+  },
+  {
+   "raw": "LAUNDRY PODS 90",
+   "code": "910044",
+   "name": "Laundry pods, 90",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 26.67,
+   "lineTotal": 26.67,
+   "discount": 0
+  },
+  {
+   "raw": "COLD BREW 12PK",
+   "code": "800071",
+   "name": "Cold brew coffee, 12 pack",
+   "category": "Beverages",
+   "qty": 1,
+   "unitPrice": 19.75,
+   "lineTotal": 19.75,
+   "discount": 0
+  },
+  {
+   "raw": "BATH TISSUE 30R",
+   "code": "910019",
+   "name": "Bath tissue, 30 rolls",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 22.72,
+   "lineTotal": 22.72,
+   "discount": 0
+  },
+  {
+   "raw": "DISH TABS 110",
+   "code": "910078",
+   "name": "Dishwasher tablets, 110",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 21.24,
+   "lineTotal": 21.24,
+   "discount": 0
+  },
+  {
+   "raw": "SWEET POTATO 5LB",
+   "code": "200215",
+   "name": "Sweet potatoes, 5 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 6.41,
+   "lineTotal": 6.41,
+   "discount": 4
+  },
+  {
+   "raw": "SEAWEED SNK 24",
+   "code": "700064",
+   "name": "Roasted seaweed snacks",
+   "category": "Snacks",
+   "qty": 1,
+   "unitPrice": 12.34,
+   "lineTotal": 12.34,
+   "discount": 0
+  }
+ ],
+ "subtotal": 282.71,
+ "tax": 14.98,
+ "total": 297.69,
+ "instantSavings": 8,
+ "tenders": [
+  {
+   "label": "VISA",
+   "amount": 297.69,
+   "kind": "card"
+  }
+ ],
+ "source": {
+  "method": "demo"
+ },
+ "flags": [],
+ "reconciled": true,
+ "createdAt": "2026-04-16T18:10:00Z",
+ "split": "synthetic"
+}

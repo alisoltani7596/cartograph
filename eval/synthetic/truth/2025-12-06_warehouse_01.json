@@ -1,0 +1,189 @@
+{
+ "id": "2025-12-06_warehouse_01",
+ "store": "Northgate Warehouse Club",
+ "location": "Lakeview, BC",
+ "date": "2025-12-06",
+ "time": "14:22",
+ "kind": "purchase",
+ "currency": "CAD",
+ "items": [
+  {
+   "raw": "NG CHKN BRST",
+   "code": "400118",
+   "name": "Chicken breasts",
+   "category": "Meat & Seafood",
+   "qty": 1,
+   "unitPrice": 29.01,
+   "lineTotal": 29.01,
+   "discount": 0
+  },
+  {
+   "raw": "HONEYCRISP 3LB",
+   "code": "200017",
+   "name": "Honeycrisp apples, 3 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 6.81,
+   "lineTotal": 6.81,
+   "discount": 0
+  },
+  {
+   "raw": "ORG CARROT 5LB",
+   "code": "200355",
+   "name": "Organic carrots, 5 lb",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 6.85,
+   "lineTotal": 6.85,
+   "discount": 0
+  },
+  {
+   "raw": "EVOO 2L",
+   "code": "600150",
+   "name": "Extra virgin olive oil, 2 L",
+   "category": "Pantry",
+   "qty": 1,
+   "unitPrice": 19.39,
+   "lineTotal": 19.39,
+   "discount": 0
+  },
+  {
+   "raw": "PAPER TOWEL 12R",
+   "code": "910002",
+   "name": "Paper towels, 12 rolls",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 24.5,
+   "lineTotal": 24.5,
+   "discount": 0
+  },
+  {
+   "raw": "HASS AVO 6CT",
+   "code": "200410",
+   "name": "Avocados, 6 count",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 8.81,
+   "lineTotal": 8.81,
+   "discount": 0
+  },
+  {
+   "raw": "SKYR PLAIN 1KG",
+   "code": "300210",
+   "name": "Plain skyr, 1 kg",
+   "category": "Dairy & Eggs",
+   "qty": 1,
+   "unitPrice": 8.81,
+   "lineTotal": 8.81,
+   "discount": 0
+  },
+  {
+   "raw": "PEANUT BTR 2KG",
+   "code": "600218",
+   "name": "Peanut butter, 2 kg",
+   "category": "Pantry",
+   "qty": 1,
+   "unitPrice": 10.77,
+   "lineTotal": 10.77,
+   "discount": 0
+  },
+  {
+   "raw": "LAUNDRY PODS 90",
+   "code": "910044",
+   "name": "Laundry pods, 90",
+   "category": "Household",
+   "qty": 1,
+   "unitPrice": 26.46,
+   "lineTotal": 26.46,
+   "discount": 0
+  },
+  {
+   "raw": "COTTON THROW",
+   "code": "930055",
+   "name": "Cotton throw blanket",
+   "category": "Home & Garden",
+   "qty": 1,
+   "unitPrice": 29.4,
+   "lineTotal": 29.4,
+   "discount": 0
+  },
+  {
+   "raw": "LEAN GRND TURKEY",
+   "code": "401577",
+   "name": "Lean ground turkey",
+   "category": "Meat & Seafood",
+   "qty": 1,
+   "unitPrice": 18.13,
+   "lineTotal": 18.13,
+   "discount": 0
+  },
+  {
+   "raw": "USB-C CABLE 3PK",
+   "code": "940012",
+   "name": "USB-C cables, 3 pack",
+   "category": "Electronics & Toys",
+   "qty": 1,
+   "unitPrice": 19.6,
+   "lineTotal": 19.6,
+   "discount": 0
+  },
+  {
+   "raw": "AGED GOUDA 1KG",
+   "code": "300377",
+   "name": "Aged gouda",
+   "category": "Dairy & Eggs",
+   "qty": 2,
+   "unitPrice": 16.66,
+   "lineTotal": 33.32,
+   "discount": 0
+  },
+  {
+   "raw": "NG LG EGGS 30",
+   "code": "300045",
+   "name": "Large eggs, 30 pack",
+   "category": "Dairy & Eggs",
+   "qty": 1,
+   "unitPrice": 10.63,
+   "lineTotal": 10.63,
+   "discount": 0
+  },
+  {
+   "raw": "COLD BREW 12PK",
+   "code": "800071",
+   "name": "Cold brew coffee, 12 pack",
+   "category": "Beverages",
+   "qty": 1,
+   "unitPrice": 19.6,
+   "lineTotal": 19.6,
+   "discount": 0
+  },
+  {
+   "raw": "ORG RASPBRY 340G",
+   "code": "200098",
+   "name": "Organic raspberries",
+   "category": "Produce",
+   "qty": 1,
+   "unitPrice": 6.82,
+   "lineTotal": 6.82,
+   "discount": 0
+  }
+ ],
+ "subtotal": 278.91,
+ "tax": 14.35,
+ "total": 293.26,
+ "instantSavings": 0,
+ "tenders": [
+  {
+   "label": "VISA",
+   "amount": 293.26,
+   "kind": "card"
+  }
+ ],
+ "source": {
+  "method": "demo"
+ },
+ "flags": [],
+ "reconciled": true,
+ "createdAt": "2025-12-06T14:22:00Z",
+ "split": "synthetic"
+}
