@@ -64,7 +64,7 @@ npm run dev        # http://localhost:5173/cartograph/
 npm run build      # static site in dist/
 ```
 
-Stack: TypeScript, Vite, Vitest, tesseract.js, pdf.js, idb-keyval. No framework. CI runs type checks, unit tests, the build and the synthetic eval on every push; a second workflow deploys `dist/` to GitHub Pages.
+Stack: TypeScript, Vite, Vitest, tesseract.js, pdf.js, idb-keyval. No framework. CI runs type checks, unit tests, the build and the synthetic eval on every push; a second workflow publishes `dist/` to the `gh-pages` branch for GitHub Pages.
 
 ## Adding a store pack
 
