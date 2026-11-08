@@ -7,7 +7,8 @@ export const MODELS = {
   'claude-sonnet-5-5': { label: 'Claude Sonnet 5.5 (larger model)', inputPerM: 2, outputPerM: 10, forcedTool: false },
 } as const;
 export type ModelId = keyof typeof MODELS;
-export const DEFAULT_MODEL: ModelId = 'claude-sonnet-5-5';
+// Chosen on the dev set: same accuracy as Sonnet 5.5, about 20x cheaper and twice as fast (see eval/results).
+export const DEFAULT_MODEL: ModelId = 'claude-haiku-5-5';
 
 export interface ImagePart {
   kind: 'image';

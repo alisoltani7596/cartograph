@@ -8,3 +8,4 @@ eval/runs/private*
 private/
 *.secret
 .env*
+public/ocr/

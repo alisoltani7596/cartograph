@@ -18,7 +18,7 @@ const NOT_ITEM = /\b(sub ?total|total|tax|gst|pst|hst|qst|change|amount|approved
 export function cleanLine(s: string): string {
   return s
     .replace(/[|]/g, ' ')
-    .replace(/[—–]/g, '-')
+    .replace(/[\u2014\u2013]/g, '-')
     .replace(/(\d)\s*[.,]\s*(\d{2})\b/g, '$1.$2') // "12 .99" -> "12.99"
     .replace(/(\d)[oO](?=\d)/g, '$10')
     .replace(/\$\s+/g, '$')
